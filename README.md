@@ -8,7 +8,8 @@ user.config
 
 ===============(start of user.config)===========
 > 2016211888
-wozuishuai123
+
+> wozuishuai123
 
 ===============(end of user.config)============
 
